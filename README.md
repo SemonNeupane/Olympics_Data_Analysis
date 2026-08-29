@@ -1,8 +1,8 @@
-# 🏅 Tokyo Olympics 2020 — Data Analysis & Power BI Dashboard
+# 🏅 Tokyo Olympics 2021 — Data Analysis & Power BI Dashboard
 
 ## 📌 Project Overview
 
-This project analyzes the **Tokyo 2020 Olympics dataset** using Python for data cleaning, feature engineering, and Exploratory Data Analysis (EDA), followed by an interactive **5-page Power BI dashboard**.
+This project analyzes the **Tokyo 2021 Olympics dataset** using Python for data cleaning, feature engineering, and Exploratory Data Analysis (EDA), followed by an interactive **5-page Power BI dashboard**.
 
 The goal of this project is to understand athlete participation, country performance, medal distribution, gender participation, and medal efficiency through data-driven analysis and visualization.
 
@@ -290,7 +290,7 @@ The analysis provides several important observations:
 ## 📁 Project Structure
 
 ```text
-Tokyo-Olympics-2020-Analysis/
+Olympics-Data-Analysis/
 │
 ├── Cleaned Data/
 │   ├── athletes_cleaned.csv
@@ -311,7 +311,7 @@ Tokyo-Olympics-2020-Analysis/
 │   └── Tokyo_Olympics_EDA.ipynb
 │
 ├── Dashboard/
-│   └── Tokyo_Olympics_2020_Analysis.pbix
+│   └── OlympicsDashboard.pbix
 │
 ├── Images/
 │   ├── Overview.png
@@ -348,7 +348,7 @@ jupyter notebook
 Open:
 
 ```text
-notebooks/Tokyo_Olympics_EDA.ipynb
+notebook/OlympicsAnalysis.ipynb
 ```
 
 ### 4. Explore the Power BI dashboard
@@ -356,7 +356,7 @@ notebooks/Tokyo_Olympics_EDA.ipynb
 Open:
 
 ```text
-dashboard/Tokyo_Olympics_2020_Analysis.pbix
+dashboard/TOlympicDashboard.pbix
 ```
 
 ---
