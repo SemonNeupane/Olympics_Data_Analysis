@@ -169,7 +169,7 @@ Key visuals include:
 * Medal Composition
 * Top Disciplines by Athlete Participation
 
-![Overview](images/Overview.png)
+![Overview](Images/Overview.png)
 
 ---
 
@@ -186,7 +186,7 @@ Key visuals include:
 * Athlete Distribution Across Disciplines
 * Discipline and NOC slicers
 
-![Athlete Participation](images/Athlete_Participation.png)
+![Athlete Participation](Images/Athlete_Participation.png)
 
 ---
 
@@ -205,7 +205,7 @@ Key visuals include:
 * Medal Composition
 * Country slicer
 
-![Medal Performance](images/Medal_Performance.png)
+![Medal Performance](Images/Medal_Performance.png)
 
 ---
 
@@ -223,7 +223,7 @@ Key visuals include:
 * Top Disciplines by Gender Gap
 * Discipline slicer
 
-![Gender Analysis](images/Gender_Analysis.png)
+![Gender Analysis](Images/Gender_Analysis.png)
 
 ---
 
@@ -239,7 +239,7 @@ Key visuals include:
 * Athlete Participation vs Total Medals
 * Country slicer
 
-![Country Performance](images/Country_Performance.png)
+![Country Performance](Images/Country_Performance.png)
 
 ---
 
@@ -308,7 +308,7 @@ Olympics-Data-Analysis/
 │   ├── teams.csv
 │
 ├── Notebook/
-│   └── Tokyo_Olympics_EDA.ipynb
+│   └── OlympicsAnalysis_E.ipynb
 │
 ├── Dashboard/
 │   └── OlympicsDashboard.pbix
@@ -330,7 +330,7 @@ Olympics-Data-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Tokyo-Olympics-2020-Analysis.git
+git clone https://github.com/SemonNeupane/Olympics_Data_Analysis.git
 ```
 
 ### 2. Install Python libraries
@@ -348,7 +348,7 @@ jupyter notebook
 Open:
 
 ```text
-notebook/OlympicsAnalysis.ipynb
+Notebook/OlympicsAnalysis.ipynb
 ```
 
 ### 4. Explore the Power BI dashboard
@@ -356,7 +356,7 @@ notebook/OlympicsAnalysis.ipynb
 Open:
 
 ```text
-dashboard/TOlympicDashboard.pbix
+Dashboard/OlympicDashboard.pbix
 ```
 
 ---
