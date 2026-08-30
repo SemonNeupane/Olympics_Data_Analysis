@@ -186,7 +186,7 @@ Key visuals include:
 * Athlete Distribution Across Disciplines
 * Discipline and NOC slicers
 
-![Athlete Participation](Images/Athlete_Participation.png)
+![Athlete Participation](Images/Athlete Participation.png)
 
 ---
 
@@ -205,7 +205,7 @@ Key visuals include:
 * Medal Composition
 * Country slicer
 
-![Medal Performance](Images/Medal_Performance.png)
+![Medal Performance](Images/Medal Performance.png)
 
 ---
 
@@ -223,7 +223,7 @@ Key visuals include:
 * Top Disciplines by Gender Gap
 * Discipline slicer
 
-![Gender Analysis](Images/Gender_Analysis.png)
+![Gender Analysis](Images/Gender Analysis.png)
 
 ---
 
@@ -239,7 +239,7 @@ Key visuals include:
 * Athlete Participation vs Total Medals
 * Country slicer
 
-![Country Performance](Images/Country_Performance.png)
+![Country Performance](Images/Country Performance.png)
 
 ---
 
