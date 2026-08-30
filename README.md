@@ -187,7 +187,6 @@ Key visuals include:
 * Discipline and NOC slicers
 
 ![Athlete Participation](Images/Athlete Participation.png)
-
 ---
 
 ## 3️⃣ Medal Performance
@@ -204,9 +203,8 @@ Key visuals include:
 * Top Countries by Gold Medals
 * Medal Composition
 * Country slicer
-
+  
 ![Medal Performance](Images/Medal Performance.png)
-
 ---
 
 ## 4️⃣ Gender Analysis
@@ -224,7 +222,6 @@ Key visuals include:
 * Discipline slicer
 
 ![Gender Analysis](Images/Gender Analysis.png)
-
 ---
 
 ## 5️⃣ Country Performance
@@ -240,7 +237,6 @@ Key visuals include:
 * Country slicer
 
 ![Country Performance](Images/Country Performance.png)
-
 ---
 
 ## 🔍 Key Insights
